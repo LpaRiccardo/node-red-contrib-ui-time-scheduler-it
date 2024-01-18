@@ -1,5 +1,5 @@
-# node-red-contrib-ui-time-scheduler
-A node-red-ui time scheduler for the Node-RED Dashboard.  
+# node-red-contrib-ui-time-scheduler-it
+Italian localization of the origianl node-red-ui time scheduler for the Node-RED Dashboard.
 
 | ![](images/time-scheduler.jpg) | ![](images/time-scheduler-em.jpg) |
 | :----------------------------: | :-------------------------------: |
@@ -10,7 +10,7 @@ A node-red-ui time scheduler for the Node-RED Dashboard.
 You can install this node directly from the "Manage Palette" menu in the Node-RED interface.  
 Alternatively, run the following command in your Node-RED user directory - typically `~/.node-red` on Linux or `%HOMEPATH%\.nodered` on Windows
 
-        npm install node-red-contrib-ui-time-scheduler
+        npm install node-red-contrib-ui-time-scheduler-it
 
 ### Requirements ###
 node-red v0.19 or above  
@@ -55,9 +55,3 @@ Easily import flows via the Node-RED flow editor:
 ## History
   
 Find the changelog [here](CHANGELOG.md).
-  
-# Donate
-  
-You can donate by clicking the following link if you want to support this free project:
-  
-<a target="blank" href="https://www.paypal.me/fellinga"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg"/></a>
