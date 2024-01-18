@@ -1,6 +1,12 @@
 # Changelog
 
 ----------
+## [v1.17.3] - 2024-01-18
+
+### New
+- italian localization added
+
+----------
 ## [v1.17.2] - 2022-08-21
 
 ### Changed
