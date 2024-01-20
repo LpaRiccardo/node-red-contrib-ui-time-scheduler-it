@@ -10,7 +10,7 @@ Italian localization of the origianl node-red-ui time scheduler for the Node-RED
 You can install this node directly from the "Manage Palette" menu in the Node-RED interface.  
 Alternatively, run the following command in your Node-RED user directory - typically `~/.node-red` on Linux or `%HOMEPATH%\.nodered` on Windows
 
-        npm install node-red-contrib-ui-time-scheduler-it
+        npm install node-red-contrib-ui-time-scheduler-italian
 
 ### Requirements ###
 node-red v0.19 or above  
