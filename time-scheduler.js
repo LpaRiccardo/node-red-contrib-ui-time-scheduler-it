@@ -950,6 +950,6 @@ module.exports = function(RED) {
 	RED.httpNode.get(nodePath, function(req, res) {
 		const nodeId = req.params.nodeId;
 		const node = RED.nodes.getNode(nodeId);
-		node ? node.nodeCallback(req, res) : res.send(404).end();
+		node ? node.nodeCallback(req, res) : res.sendStatus(404).end();
 	});
 }

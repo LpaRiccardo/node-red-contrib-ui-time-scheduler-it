@@ -1,7 +1,7 @@
 {
-  "name": "node-red-contrib-ui-time-scheduler",
-  "version": "1.17.2",
-  "description": "A ui time scheduler for the Node-RED Dashboard",
+  "name": "node-red-contrib-ui-time-scheduler-italian",
+  "version": "1.17.8",
+  "description": "Italian translation of the ui-time-scheduler module for NodeRed",
   "dependencies": {
     "suncalc": "^1.9.0"
   },
@@ -27,10 +27,10 @@
     "timer",
     "dashboard",
     "frontend",
-    "iot"
+    "italian"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fellinga/node-red-contrib-ui-time-scheduler.git"
+    "url": "git+https://github.com/LpaRiccardo/node-red-contrib-ui-time-scheduler-it.git"
   }
 }
